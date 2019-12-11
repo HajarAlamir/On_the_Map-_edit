@@ -1,0 +1,10 @@
+
+Showing All Messages
+
+Build target On-The-Map-Udacity of project On-The-Map-Udacity with configuration Debug
+error: /Users/Hajar/Downloads/On-The-Map-Udacity-master/Pods/Target Support Files/Pods-On-The-Map-Udacity/Pods-On-The-Map-Udacity.debug.xcconfig: unable to open file (in target "On-The-Map-Udacity" in project "On-The-Map-Udacity") (in target 'On-The-Map-Udacity' from project 'On-The-Map-Udacity')
+error: /Users/Hajar/Downloads/On-The-Map-Udacity-master/Pods/Target Support Files/Pods-On-The-Map-Udacity/Pods-On-The-Map-Udacity.debug.xcconfig: unable to open file (in target "On-The-Map-Udacity" in project "On-The-Map-Udacity") (in target 'On-The-Map-Udacity' from project 'On-The-Map-Udacity')
+error: /Users/Hajar/Downloads/On-The-Map-Udacity-master/Pods/Target Support Files/Pods-On-The-Map-Udacity/Pods-On-The-Map-Udacity.debug.xcconfig: unable to open file (in target "On-The-Map-Udacity" in project "On-The-Map-Udacity") (in target 'On-The-Map-Udacity' from project 'On-The-Map-Udacity')
+error: /Users/Hajar/Downloads/On-The-Map-Udacity-master/Pods/Target Support Files/Pods-On-The-Map-Udacity/Pods-On-The-Map-Udacity.debug.xcconfig: unable to open file (in target "On-The-Map-Udacity" in project "On-The-Map-Udacity") (in target 'On-The-Map-Udacity' from project 'On-The-Map-Udacity')
+
+
