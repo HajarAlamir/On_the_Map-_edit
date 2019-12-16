@@ -25,7 +25,7 @@ class LoginViewController: UIViewController {
         setupUI()
     }
     
-    // Mark:setupUI
+    // Mark:setupUI function
     private func setupUI() {
         usernameTextField.delegate = self
         passwordTextField.delegate = self
