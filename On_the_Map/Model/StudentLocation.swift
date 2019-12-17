@@ -21,7 +21,7 @@ struct StudentLocation: Codable {
     var objectId: String?
     var uniqueKey: String?
     var updatedAt: String?
-    //static var studentLocations = [ ]()
+  
 }
 
 extension StudentLocation {
